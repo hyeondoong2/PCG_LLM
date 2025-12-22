@@ -15,6 +15,7 @@ public class PCG_LLM : ModuleRules
 			"Engine", 
 			"InputCore", 
 			"EnhancedInput",
+			"GameplayTags",
 			"HTTP",
 			"Json",
 			"JsonUtilities"
