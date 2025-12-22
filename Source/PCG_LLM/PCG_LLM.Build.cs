@@ -14,7 +14,14 @@ public class PCG_LLM : ModuleRules
 			"CoreUObject", 
 			"Engine", 
 			"InputCore", 
-			"EnhancedInput"
+			"EnhancedInput",
+			"HTTP",
+			"Json",
+			"JsonUtilities"
+		});
+		
+		PublicIncludePaths.AddRange(new string[] {
+			"PCG_LLM"
 		});
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
