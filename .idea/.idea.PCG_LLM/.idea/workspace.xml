@@ -14,8 +14,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b98a5472-f9b7-4045-810c-26877afbfb19" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PCG_LLM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PCG_LLM/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PCG_LLM.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/PCG_LLM.uproject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/PCG_LLM/PCG_LLM.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/PCG_LLM/PCG_LLM.Build.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_LLM_RE.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Map/PCG.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Map/PCG.umap" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,7 +170,7 @@
       <updated>1766384835499</updated>
       <workItem from="1766384836586" duration="1126000" />
       <workItem from="1766386209444" duration="1004000" />
-      <workItem from="1766387227671" duration="986000" />
+      <workItem from="1766387227671" duration="3089000" />
     </task>
     <servers />
   </component>
