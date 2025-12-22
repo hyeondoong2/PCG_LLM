@@ -14,8 +14,51 @@
   <component name="ChangeListManager">
     <list default="true" id="b98a5472-f9b7-4045-810c-26877afbfb19" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PCG_LLM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PCG_LLM/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_LLM_RE.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Map/PCG.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Map/PCG.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_LLM_Manager.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/BP_LLM_Manager.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Map/PCG_LLM.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Map/PCG_LLM.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Megaplant_Library/Tree_Aleppo_Pine/Instances/Branch_1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Megaplant_Library/Tree_Aleppo_Pine/Instances/Branch_2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Megaplant_Library/Tree_Aleppo_Pine/Instances/Branch_3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Megaplant_Library/Tree_Aleppo_Pine/Instances/SKM_Twig_Alive1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Megaplant_Library/Tree_Aleppo_Pine/Instances/SKM_Twig_Alive2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Megaplant_Library/Tree_Aleppo_Pine/Instances/SKM_Twig_Dead1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Megaplant_Library/Tree_Aleppo_Pine/Instances/SKM_Twig_Dead2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Megaplant_Library/Tree_Aleppo_Pine/Instances/SKM_Twig_Dead3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Megaplant_Library/Tree_Aleppo_Pine/Instances/SKM_Twig_Dead4.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Megaplant_Library/Tree_Aleppo_Pine/Instances/SK_Twig_Alive1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Megaplant_Library/Tree_Aleppo_Pine/Instances/SK_Twig_Alive2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Megaplant_Library/Tree_Aleppo_Pine/Instances/SK_Twig_Dead1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Megaplant_Library/Tree_Aleppo_Pine/Instances/SK_Twig_Dead2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Megaplant_Library/Tree_Aleppo_Pine/Instances/SK_Twig_Dead3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Megaplant_Library/Tree_Aleppo_Pine/Instances/SK_Twig_Dead4.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Megaplant_Library/Tree_Aleppo_Pine/Instances/Twig_Alive1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Megaplant_Library/Tree_Aleppo_Pine/Instances/Twig_Alive2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Megaplant_Library/Tree_Aleppo_Pine/Instances/Twig_Dead1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Megaplant_Library/Tree_Aleppo_Pine/Instances/Twig_Dead2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Megaplant_Library/Tree_Aleppo_Pine/Instances/Twig_Dead3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Megaplant_Library/Tree_Aleppo_Pine/Instances/Twig_Dead4.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Megaplant_Library/Tree_Aleppo_Pine/Materials/MI_Aleppo_Pine_01_Bark.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Megaplant_Library/Tree_Aleppo_Pine/Materials/MI_Aleppo_Pine_01_Foliage.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Megaplant_Library/Tree_Aleppo_Pine/Textures/T_Aleppo_Pine_01_Bark_C.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Megaplant_Library/Tree_Aleppo_Pine/Textures/T_Aleppo_Pine_01_Bark_NAH.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Megaplant_Library/Tree_Aleppo_Pine/Textures/T_Aleppo_Pine_01_Foliage_CA.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Megaplant_Library/Tree_Aleppo_Pine/Textures/T_Aleppo_Pine_01_Foliage_NT.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Megaplant_Library/Tree_Aleppo_Pine/Textures/T_PVE_MeshDisplacement_01.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Megaplant_Library/Tree_Aleppo_Pine/Tree_Aleppo_Pine_01/PVE_Aleppo_Pine_01.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Megaplant_Library/Tree_Aleppo_Pine/Tree_Aleppo_Pine_01/PVE_Aleppo_Pine_01_Data.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Megaplant_Library/Tree_Aleppo_Pine/Tree_Aleppo_Pine_01/SK_Aleppo_Pine_01_A.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Megaplant_Library/Tree_Aleppo_Pine/Tree_Aleppo_Pine_01/SK_Aleppo_Pine_01_A_Skeleton.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Megaplant_Library/Tree_Aleppo_Pine/Tree_Aleppo_Pine_01/SK_Aleppo_Pine_01_B.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Megaplant_Library/Tree_Aleppo_Pine/Tree_Aleppo_Pine_01/SK_Aleppo_Pine_01_B_Skeleton.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Megaplant_Library/Tree_Aleppo_Pine/Tree_Aleppo_Pine_01/SK_Aleppo_Pine_01_C.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Megaplant_Library/Tree_Aleppo_Pine/Tree_Aleppo_Pine_01/SK_Aleppo_Pine_01_C_Skeleton.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Megaplant_Library/Tree_Aleppo_Pine/Tree_Aleppo_Pine_01/SK_Aleppo_Pine_01_D.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Megaplant_Library/Tree_Aleppo_Pine/Tree_Aleppo_Pine_01/SK_Aleppo_Pine_01_D_Skeleton.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PCG/PCG_Parameter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PCG/PCG_Parameter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/PCG_LLM/LLM_RE.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/PCG_LLM/LLM_RE.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,7 +213,7 @@
       <updated>1766384835499</updated>
       <workItem from="1766384836586" duration="1126000" />
       <workItem from="1766386209444" duration="1004000" />
-      <workItem from="1766387227671" duration="3089000" />
+      <workItem from="1766387227671" duration="9072000" />
     </task>
     <servers />
   </component>
